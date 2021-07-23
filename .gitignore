@@ -1,1 +1,11 @@
-/firstcup-examples.iml
+.classpath
+.project
+/.settings/
+/target/
+
+# IntelliJ project files
+*.idea
+*.iml
+.gradle
+
+workspace
